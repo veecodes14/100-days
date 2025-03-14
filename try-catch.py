@@ -1,3 +1,4 @@
+#DAY-42
 try:
     numerator = input("Enter numerator: ")
     denominator = input("Enter denominator: ")
