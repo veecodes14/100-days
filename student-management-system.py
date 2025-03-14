@@ -1,3 +1,4 @@
+#DAY-26
 def student_management_system():
     students = {}
 
@@ -30,7 +31,7 @@ def student_management_system():
            name = input("Enter Name of Student to View: ")
            if name in students:
                 print(f"Name: {student['name']}, Age: {student['age']}, Grade: {student['grade']}, Course: {student['courses']}")
-            else:
+           else:                           
                 print("Student not Found")
 
         elif option == '4':
