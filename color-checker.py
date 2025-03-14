@@ -1,3 +1,4 @@
+#DAY-7
 # primary and non-primary colors
 primary_colors = ["red", "blue", "yellow"]  
 
