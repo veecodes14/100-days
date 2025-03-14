@@ -1,3 +1,4 @@
+#DAY-37
 from hair import Hair
 
 hair1 = Hair("Vietnamese", "Double Drawn", 33, False)
