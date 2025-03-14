@@ -1,3 +1,4 @@
+#DAY-27
 def greet_user(**kwargs):
     
     name = kwargs.get('name', 'Guest')  
