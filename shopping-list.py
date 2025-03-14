@@ -1,3 +1,4 @@
+#DAY-12.
 # create a list of fruits
 fruits = ["apple", "banana", "strawberry", "pawpaw"]
 
